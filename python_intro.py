@@ -1,12 +1,8 @@
 python intro.py
 
-
-
 ### print
 
 print "hello world"
-
-
 
 ### arithmitic
 
